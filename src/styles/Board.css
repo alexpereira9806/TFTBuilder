@@ -1,0 +1,16 @@
+/* styles.css (or your preferred CSS file) */
+.board-container {
+    display: flex;
+    justify-content: center;
+    background-color: #0f1b2d; /* Primary color */
+  }
+  
+  g{
+    padding: 5px;
+    overflow: hidden;
+    
+  }
+  h3{
+    color: white;
+    padding: 5%;
+  }
